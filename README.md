@@ -20,7 +20,8 @@ Before you begin, make sure you have the following installed on your machine:
 
 ### Clone the repository
 ```
-git clone https://github.com/yourusername/image-masking-tool.git
+git clone https://github.com/omasati1709/image-masking-tool.git
+
 ```
 
 ### Navigate into the project directory
